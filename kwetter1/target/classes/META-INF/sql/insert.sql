@@ -1,0 +1,2 @@
+INSERT INTO USERR (ID, EMAIL, LOCATIONX, LOCATIONY, NAME, ROLE, USERNAME, WEBSITE)
+VALUES (1, 'jolandeDeGroot@gmail.com', 51.103644,5.8925744999999, 'Jolanda', 'moderator', 'jo_Landa', NULL );
